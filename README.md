@@ -1,6 +1,6 @@
 # Mindful Plant CBT — API
 
-The REST API backing the [Mindful Plant CBT](PSYCHOHITMAN/MindfulPlantCBT) Android app. A small
+The REST API backing the [Mindful Plant CBT](https://github.com/PSYCHOHITMAN/MindfulPlantCBT) Android app. A small
 Node.js/Express service handling authentication and thought-record storage/sync, matching
 the API design scoped in the app's Part 1 Planning and Design document.
 
